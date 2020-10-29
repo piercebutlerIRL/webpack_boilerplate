@@ -1,4 +1,4 @@
-# webpack_boilerplate
+# Webpack Boilerplate
 Webpack 4 boilerplate
 
 <b>Scripts</b>
