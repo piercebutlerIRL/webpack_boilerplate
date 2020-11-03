@@ -1,14 +1,19 @@
 {
-  "name": "boilerplate",
-  "version": "1.0.0",
-  "description": "webpack boilerplate",
+  "name": "Webpack 5 Boilerplate",
+  "version": "1.0.1",
+  "description": "Webpack 5 boilerplate",
   "main": "index.js",
   "scripts": {
-    "dev-server": "webpack serve --mode development",
-    "build": "webpack --mode production"
+    "start": "webpack serve --mode=development",
+    "build": "webpack --mode=production"
   },
   "author": "Pierce B",
-  "license": "ISC",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "webpack 5",
+    "webpack boilerplate"
+  ],
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -20,6 +25,7 @@
     "webpack-cli": "^4.1.0",
     "webpack-dev-server": "^3.11.0",
     "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-private-methods": "^7.12.1",
     "@babel/preset-env": "^7.12.1",
     "autoprefixer": "^10.0.0",
     "css-loader": "^5.0.0",
