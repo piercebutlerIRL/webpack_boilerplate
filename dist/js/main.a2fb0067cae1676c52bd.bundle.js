@@ -1,1 +1,0 @@
-(()=>{"use strict";var e={p:"./"};const t=e.p+"img/wp_logo.468cc9ee8610598082454043e8cebe57.svg";var c=document.createElement("h1");c.textContent="👋 webpack";var o=document.createElement("img");o.src=t,document.querySelector("#root").append(o,c)})();
