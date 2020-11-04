@@ -1,6 +1,6 @@
 # 📦 webpack 5 Boilerplate
 
-Simple webpack 5 boilerplate with babel, SCSS and hot dev server. Production build is bundled and minified.
+Simple webpack 5 boilerplate with babel, SCSS and hot dev server. Production build is bundled, hashed and minified.
 
 ## Installation
 
